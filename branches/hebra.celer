@@ -64,6 +64,7 @@ Hebra:
 - _Korok::H07:
     comment: " "
     notes: Pre-aim, walk onto start block, instant square-first windbomb
+    time-override: 360
 
 - .gale() + .dir(E):
     gale: 1

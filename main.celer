@@ -13,9 +13,9 @@ _config:
     Warp: "Warp {{_}} .{{Korok}}"
 
 _route:
-  - (?=) This document is a work in progress and may change daily. Currently updating for Omegafairy v2.
-  - (==) Current Routes .link([Omegafairy v1]https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus) (2022-07-15), .link([HeartyBass]https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus/heartybass) (2022-07-05)
-  - (==) Resources .link([Object Map]https://objmap.zeldamods.org/#/map/z5,0,0), .link([Master Guide]https://docs.google.com/spreadsheets/d/1qLOC3ajm6a-vrXvlwAecbhW88iT8vtv9iSvP0jUcwzY/edit?usp=sharing), .link([NPC Info]https://docs.google.com/spreadsheets/d/1GS5DRdfnNnsczeg-N-iR-6Is9yeAdsRwT4CyDZbdq5U/edit#gid=1594284283), .link([Drop Table Calculator]https://restite.org/drops/), .link([Material Usage Spreadsheet]https://docs.google.com/spreadsheets/d/1SMovk9HxD9_wqcsnHYNq8xmsclU6olqzI3pqu3QZ4Ro/edit#gid=722444247)
+  - (==) This is the Omegafairy v2 (2022-07-28) version of the route.
+  - (^=) Older Routes >> .link([Omegafairy v1]https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus) (2022-07-15), .link([HeartyBass]https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus/heartybass) (2022-07-05)
+  - (?=) Resources >> .link([Object Map]https://objmap.zeldamods.org/#/map/z5,0,0), .link([Master Guide]https://docs.google.com/spreadsheets/d/1qLOC3ajm6a-vrXvlwAecbhW88iT8vtv9iSvP0jUcwzY/edit?usp=sharing), .link([NPC Info]https://docs.google.com/spreadsheets/d/1GS5DRdfnNnsczeg-N-iR-6Is9yeAdsRwT4CyDZbdq5U/edit#gid=1594284283), .link([Drop Table Calculator]https://restite.org/drops/), .link([Material Usage Spreadsheet]https://docs.google.com/spreadsheets/d/1SMovk9HxD9_wqcsnHYNq8xmsclU6olqzI3pqu3QZ4Ro/edit#gid=722444247)
 
   - Plateau:
     - __use__ Plateau
@@ -98,15 +98,15 @@ _route:
     - __use__ Eldin Canyon
   - Akkala Complete:
     - __use__ Akkala Complete
-  # - Eventide:
-  #   - __use__ Eventide
-  # - Kakariko 3:
-  #   - __use__ Kakariko 3
-  # - Hateno 2:
-  #   - __use__ Hateno 2
-  # - Lanayru Complete:
-  #   - __use__ Lanayru Complete
-  # - Forgotten Temple:
-  #   - __use__ Gift from the Monks
-  # - Endgame:
-  #   - __use__ Endgame
+  - Eventide:
+    - __use__ Eventide
+  - Kakariko 3:
+    - __use__ Kakariko 3
+  - Hateno 2:
+    - __use__ Hateno 2
+  - Lanayru Complete:
+    - __use__ Lanayru Complete
+  - Forgotten Temple:
+    - __use__ Gift from the Monks
+  - Endgame:
+    - __use__ Endgame

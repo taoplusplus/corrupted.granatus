@@ -1,22 +1,18 @@
-Endgame:
-- .link([Missable Locations]https://drive.google.com/file/d/1hN-TJYfVUIlQGkuJYRkK4f0mCPJoIyxW/view)
-
-- .link([Quests in Order]https://docs.google.com/document/d/1sT8kNvatZR7gfKQrNI2YOg7ARvZIpoRd88a_bTnGOB0/edit?usp=sharing) 
-
-- .link([Hinox, Stalnox, and Talus]https://objmap.zeldamods.org/#/map/z3,0,0?q=%28talus%20OR%20enemy_giant_bone%20OR%20hinox%29%20NOT%20titan)
-
-#.link([Side Quests]https://pastebin.com/HHMd7Z3U) .link([Shrine Quests]https://pastebin.com/fMrzQhtM)
-
+Endgame: 
 - _Warp::Shrine::DahHesho:
-    comment: 99.66% # ?
+    comment: WARP 99.66%
+    notes: .link([Missable Locations]https://drive.google.com/file/d/1hN-TJYfVUIlQGkuJYRkK4f0mCPJoIyxW/view)
 
 - .dir(<E)
-- .loc(Great Fairy Fountain):
+- Activate .loc(Fairy Fountain):
+    icon: location
     coord: [4105.00, 263.97, -1370.00]
 
-- .!!(Upgrade all armor):
+- .!!(Upgrade armor):
+    icon: tots
+    hide-icon-on-map: true
     # notes: Set of the Wild, Zora Set, Champion's Tunic
-    notes: Last 2 Set of the wild, Zora Helm + Zora Greaves, Champion's Tunic + Zora Armor, remaing Set of the Wild
+    notes: Last 2 set of the wild, Zora Helm + Zora Greaves, Champion's Tunic + Zora Armor, remaing Set of the Wild
 
 - .dir(S) run
 - _Korok::A48
@@ -24,22 +20,31 @@ Endgame:
 - .dir(N>)
 - _Npc<Kilton>:
     coord: [4152.87, 194.63, -1597.24]
-- Sell Lizalfos Tails for .!!(mon)
-- Buy .item(extract), .item(bridle), .item(saddle)
+- Sell Lizalfos Tails for .!!(mon):
+    icon: tots
+    hide-icon-on-map: true
+- Buy .item(extract), .item(bridle), .item(saddle):
+    icon: shop
+    hide-icon-on-map: true
 - Get .!!(Kilton medals):
-    notes: Prayge
+    icon: tots
+    hide-icon-on-map: true
+    notes: Map of .link([Hinox, Stalnox, and Talus]https://objmap.zeldamods.org/#/map/z3,0,0?q=%28talus%20OR%20enemy_giant_bone%20OR%20hinox%29%20NOT%20titan)
 
-- .dir(W)
+- .dir(.W)
 - _Npc<Ruli>:
     coord: [3968.57, 233.44, -1590.29]
-    comment: A Parent's Love
-    notes: Listen in at window
+    notes: A Parent's Love
+    comment: Listen in at window
 
-- _Cook<Monster Cake>:
+- _Cook<Cook Monster Cake>:
     coord: [3946.69, 233.67, -1603.18]
     comment: Wheat, sugar, butter, extract
 
-- Give to Ruli, talk again
+- Give cake to Ruli:
+    icon: tots
+    comment: Talk again in morning
+    hide-icon-on-map: true
 
 - _Npc<Hagie>:
     coord: [3919,-1605]
@@ -51,20 +56,32 @@ Endgame:
     comment: From the Ground Up
     notes: Talk to him again after the wedding
 
-- _Warp::Shrine::KeoRuug
+
+- _Warp::Shrine::KeoRuug:
+    comment: WARP
 
 - _Npc<Hestu>:
     icon: hestu
     coord: [466.03, 249.56, -2112.38]
-    comment: Don't forget poop
+    comment: All inventory upgrades
+
+- _Material<Hestu's Gift>:
+    hide-icon-on-map: true
+    comment: Don't forget!
 
 - _Npc<Chio>:
     comment: Korok Trials
     coord: [431.66, 250.56, -2139.55]
 
+- Check quests:
+    icon: tots
+    hide-icon-on-map: true
+    comment: 13/15, 75/77, 42/42
+    notes: .link([Quests in Order]https://docs.google.com/document/d/1sT8kNvatZR7gfKQrNI2YOg7ARvZIpoRd88a_bTnGOB0/edit?usp=sharing)
+
 - _Warp::Shrine::HaDahamar:
     line-color: dodgerblue
-    comment: 99.83%
+    comment: WARP 99.83%
 
 - .dir(.S)
 
@@ -76,15 +93,15 @@ Endgame:
 
 - .dir(NE)
 - Tame a horse:
+    icon: tots
     coord: [1784.94, 117.91, 2036.54]
-
+- _Npc<Domidak and Prissen>:
+    coord: [1767.48, 116.07, 1925.15]
+    comment: Misko, the Great Bandit
 - _Npc<Rensa>:
     coord: [1748.38, 116.11, 1923.67]
     comment: Wild Horses
 
-- _Npc<Domidak and Prissen>:
-    coord: [1767.48, 116.07, 1925.15]
-    comment: Misko, the Great Bandit
-
 - .dir(.E)
-- _Memory::AshSwamp
+- _Memory::AshSwamp:
+    notes: GG

@@ -6,7 +6,8 @@ Hateno 2:
 - _Korok::D51
 
 - .dir(E.)
-- _Korok::D52
+- _Korok::D52:
+    comment: Pinwheel
 
 - .dir(<<E)
 - _Npc<Calip>:
@@ -24,7 +25,8 @@ Hateno 2:
 - _Korok::N27
 
 - .dir(NE)
-- _Korok::N26
+- _Korok::N26:
+    comment: " "
 
 - .dir(<S)
 - _Korok::N35
@@ -34,7 +36,7 @@ Hateno 2:
 
 - .dir(<<E)
 - _Korok::N37:
-    comment: Cryo block DIVE
+    comment: " "
 
 - .dir(<<S)
 - _Boss::Talus::Stone:
@@ -47,11 +49,12 @@ Hateno 2:
 - _Korok::N38
 
 - .dir(SW)
-- _Korok::N41
+- _Korok::N41:
+    comment: " "
 
 - .dir(<<W)
 - _Korok::N45:
-    comment: 10 ring
+    comment: Shoot 10 signs
 
 - .dir(S)
 - _Korok::N46
@@ -71,7 +74,7 @@ Hateno 2:
 - _Shrine::MyahmAgana:
     notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=5334s)
 
-- .dir(SW) short, down
+- .dir(SW) down
 - _Korok::N53
 
 - .gale():
@@ -88,7 +91,7 @@ Hateno 2:
 - _Npc<Clavia>:
     coord: [3434.98, 226.90, 2149.15]
     comment: Secret of the Cedars
-    notes: (Optional) If you didn't talk to her during The Glitch
+    notes: (Optional) If you didn't talk to her during inventory corruption
 
 - _Npc<Manny>:
     coord: [3418.24, 226.84, 2121.22]
@@ -100,22 +103,24 @@ Hateno 2:
     coord: [3621.69, 283.36, 2098.13]
     comment: Sheep Rustlers
 
-- .gale() + .dir(E) midair:
+- .gale() + .dir(E):
     gale: 1
-- Sunshroom, enter back door
-
+    notes: Enter back door
 - _Npc<Symin>:
     coord: [3778.96, 356.86, 2132.45]
     comment: Sunshroom Sensing
     notes: Talk 3 times until you get the Hearty Truffle reward. Then talk again and make sure to select "I'm good".
 
-- .!!(Buy COMPENDIUM)
+- .!!(Buy compendium pics):
+    icon: camera-plus
+    hide-icon-on-map: true
 
 - .gale():
     gale: 1
 - _Korok::N47
 
-- .dir(<E) + .dir(N) midair
-- _Korok::N32
+- .dir(<E) + .dir(N)
+- _Korok::N32:
+    comment: " "
 
 - _Shrine::TahnoOah

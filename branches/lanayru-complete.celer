@@ -3,12 +3,15 @@ Lanayru Complete:
 - _Korok::N40
 
 - .dir(<N) + midair
-- _Korok::N25
+- _Korok::N25:
+    comment: " "
 
 - .dir(N>)
-- _Korok::Z62
-
-- _Korok::Z61
+- _Korok::Z61:
+    comment: On island
+    notes: Combo Z61 and Z62
+- _Korok::Z62:
+    comment: " "
 
 - .dir(N) + midair
 - _Korok::Z59
@@ -18,14 +21,22 @@ Lanayru Complete:
 
 - _Boss::Hinox::Blue:
     coord: [4442.00, 160.79, 350.94]
-    comment: 5 ancient arrow
+    comment: Ancient arrows
 
 - .dir(<W)
 - _Korok::Z56
+- Blow up 3 rock piles:
+    icon: calamity
+    movements:
+        - to: [4156.75,482.75]
+          away: true
+        - to: [4198.75,497.5]
+          away: true
+        - to: [4087.5,469.75]
+          away: true
+    hide-icon-on-map: true
 
-- Blow up 3 rubble
-
-- .dir(SE)
+- .dir(<S)
 - _Korok::Z57
 
 - .dir(<W)
@@ -64,24 +75,21 @@ Lanayru Complete:
 
 - .dir(N>>)
 - Activate .!!(Pedestial):
+    icon: tots
     coord: [4226.75,312.75]
-    notes: Either (1) run + shield hop + spam X OR (2) WB and land with glider open.
+    comment: Run, shield hop, spam X
 
 - _Shrine::ShaiYota
 
 - .dir(N>)
 - _Korok::Z36
 
-- .gale() + .dir(E) midair:
-    gale: 1
-    notes: Alternatively .dir(W) + .dir(E) midairs gives more room to gain height
+- .dir(W) + .dir(E)
 - _Korok::Z35
 
-- .dir(<E) + .dir(.N) midairs
-- _Chest::Special<Star Fragment>:
-    coord: [4218.92, 380.62, -147.56]
-    notes: (Optional) Get this chest if you skipped the one earlier in Castle
-- _Korok::Z28
+- .dir(<E) + .dir(.N)
+- _Korok::Z28:
+    comment: Against cliff
 
 - .dir(NE)
 - _Korok::Z10:
@@ -97,28 +105,32 @@ Lanayru Complete:
 - _Korok::A57
 
 - .dir(N>)
-- _Shrine::KenaiShakah
+- _Shrine::KenaiShakah:
+    comment: Modest Test of Strength
 
-- Jump and midair .dir(S>)
+- midair .dir(S>):
+    notes: Jump out to avoid low ceiling
 - _Korok::A55
 
 - .dir(<N)
 - _Korok::A54:
-    comment: " "
+    comment: Pinwheel
     notes: .link([Korok strat]https://twitter.com/TaoPlusPlus/status/1548114763384729600?s=20&t=JX61AlpH3ORlyUb73JbUtw)
 
 - .dir(<<E)
-- _Korok::A53
+- _Korok::A53:
+    comment: " "
 
 - .dir(E)
 - _Korok::Z07
 
-- .dir(N) short, down
-- _Korok::Z06
+- .dir(N) down
+- _Korok::Z06:
+    comment: On wood planks
 
 - .dir(N)
 - _Korok::Z01
 
-- .dir(S)
+- .dir(S) down
 - _Shrine::KahMael:
     notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=20677s)

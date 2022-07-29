@@ -11,7 +11,8 @@ Akkala Complete:
 - .dir(SE)
 - _Korok::A46
 
-- .dir(W>)
+- .dir(W>):
+    notes: Curve the windbomb over bridge ruins to discover location and then land at rock
 - _Discover<Akkala Bridge Ruins>:
     coord: [3161.60, 442.88, -1416.64]
 - _Korok::A45
@@ -26,8 +27,13 @@ Akkala Complete:
 - .dir(E)
 - _Npc<Jana>:
     coord: [3133.57, 306.78, -1693.04]
-    comment: Little Sister's Big Request
-    notes: Select "I'm a traveler." Get here before 8:00pm. Make noon if needed.
+    notes: Get here before 8pm. Make noon if needed. Little Sister's Big Request.
+    comment: Select "I'm a traveler"
+- Talk to sisters:
+    icon: npc
+    hide-icon-on-map: true
+    comment: Give armoranth, darners
+    notes: Jana, Gleema, Jana, Gleema, Jana
 
 - .dir(E)
 - _Npc<Hudson>:
@@ -38,18 +44,21 @@ Akkala Complete:
     comment: .gale()
     gale: 1
 
-- .dir(NE)
+- .dir(NE) surf
 - _Korok::A35
 
-- .!!(Read shrine stone):
-    coord: [4626.25, 131.11, -1829.19]
-
-- .dir(<<S)
+- .dir(<<S) run
 - _Korok::A36:
     movements:
         - to: [4691.71, 136.71, -1777.33]
           away: true
 
+- .!!(Read shrine stone):
+    icon: tots
+    coord: [4626.25, 131.11, -1829.19]
+
+- BLSS with orb
 - _Shrine::RitaagZumo
 
+- Run
 - _Korok::A33

@@ -2,6 +2,7 @@ Gift from the Monks:
 - _Warp::Shrine::ShadaNaw:
     #comment: 96.36%
     line-color: orange
+    comment: WARP
 
 - _Tod::Night:
     hide-icon-on-map: true
@@ -10,32 +11,38 @@ Gift from the Monks:
 - .dir(SE) run
 - _Korok::H20
 
-- .dir(E) + .dir(S) midairs
-- _Korok::H28
+- .dir(.S) + midairs
+- _Korok::H28:
+    comment: On peak
 
 - Look .!!(Southeast) in the sky:
+    icon: tots
+    hide-icon-on-map: true
     notes: For Salvager chest. Watch it land.
 
-- Drop down
+- Down
 - _Shrine::GomaAsaagh
 
 - .dir(SW) run:
     notes: Can shield jump onto ice or shoot a fire arrow between the ice blocks and run through
-- _Korok::H35
+- _Korok::H35:
+    comment: " "
 
 - .dir(SE)
 - _Chest<Salvager Trousers>:
     coord: [-2605.00, 583.00, -2652.00]
 
 - .dir(<E)
-- _Korok::H36
+- _Korok::H36:
+    comment: " "
 
-- .dir(N)
+- .dir(N) down
 - _Korok::H29:
-    comment: All the way done
+    comment: " "
 
-- .dir(E>>)
-- _Korok::H31
+- .dir(E>)
+- _Korok::H31:
+    comment: " "
 
 - .dir(N>)
 - _Boss::Talus::Frost:
@@ -43,20 +50,20 @@ Gift from the Monks:
     fury: 3
     coord: [-2144.88, 491.27, -3082.59]
 
-- .dir(W) short
-- _Korok::H30:
-    comment: All the way down
+- .dir(W) down
+- _Korok::H30
 
-- .dir(NW) low
+- .dir(NW)
 - _Shrine::RokUwog:
     notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=16559s)
 
-- .dir(N.) + .dir(NE) midair
+- .dir(N.) + .dir(NE)
 - _Korok::H13:
-    comment: Up above
+    comment: " "
 
 - .dir(NE)
-- _Korok::H05
+- _Korok::H05:
+    comment: Pinwheel on peak
 
 - .dir(E)
 - _Shrine::ShaGehma:
@@ -72,31 +79,35 @@ Gift from the Monks:
 - _Korok::H37
 
 - .dir(<S):
-    notes: Pick up/put down rock and stand on it to WB.
+    notes: Pick up/put down rock and stand on it to windbomb
 - _Npc<Juannelle>:
     coord: [-1641.43, 339.19, -2561.69]
     comment: Stalhorse Pictured!
 
+- Run
 - _Shrine::RinOyaa:
     notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=17563s)
 
 - .dir(.W)
 - _Korok::H52
 
-- midair .dir(E>>)
+- .dir(E>)
 - _Korok::H58
 
 - .dir(<S)
-- _Korok::H62
+- _Korok::H62:
+    comment: Pinwheel on cliff edge
 
-- .dir(<NE)
+- .dir(<NE) down
 - _Korok::H59
 
 - .dir(NE)
-- _Korok::H38
+- _Korok::H38:
+    comment: In corner against cliff
 
-- .dir(E>)
-- _Korok::K10
+- .dir(E>) down
+- _Korok::K10:
+    comment: " "
 
 - .dir(<W)
 - _Korok::K12
@@ -105,7 +116,7 @@ Gift from the Monks:
     hide-icon-on-map: true
     notes: For Stalnox and Kilton
 
-- .gale() land, .dir(S>):
+- .gale() + .dir(S>):
     gale: 1
 
 - _Boss::Hinox::Stal:
@@ -142,16 +153,17 @@ Gift from the Monks:
 - .dir(W)
 - _Korok::H63
 
-- .dir(NE)
+- .dir(<E)
 - _Korok::K13
 
-- .dir(S)
+- .dir(S) down
 - _Korok::K14
 
 - .gale() + BLSS:
     gale: 1
 - _Korok::K09
 
+- Down
 - _Shrine::RonaKachta
 
 - _Chest::Special<Set of the Wild>
