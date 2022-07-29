@@ -1,0 +1,124 @@
+Lanayru Complete:
+- .dir(E>)
+- _Korok::N40
+
+- .dir(<N) + midair
+- _Korok::N25
+
+- .dir(N>)
+- _Korok::Z62
+
+- _Korok::Z61
+
+- .dir(N) + midair
+- _Korok::Z59
+
+- .dir(<N)
+- _Korok::Z58
+
+- _Boss::Hinox::Blue:
+    coord: [4442.00, 160.79, 350.94]
+    comment: 5 ancient arrow
+
+- .dir(<W)
+- _Korok::Z56
+
+- Blow up 3 rubble
+
+- .dir(SE)
+- _Korok::Z57
+
+- .dir(<W)
+- _Korok::N12
+
+- .dir(W>)
+- _Korok::Z55
+
+- .dir(W)
+- _Korok::Z54
+
+- .dir(S>>)
+- _Korok::N14
+
+- .dir(<<N)
+- _Korok::Z51
+
+- .dir(N.)
+- _Shrine::RuccoMaag:
+    notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=15359s)
+
+- .dir(E>>)
+- _Korok::Z53
+
+- _Korok::Z52
+
+- .dir(<E)
+- _Korok::Z45
+
+- .dir(<E)
+- _Korok::Z46
+
+- .dir(S)
+- _Npc::Rito<Kass>:
+    coord: [4151.39, 109.13, 346.02]
+
+- .dir(N>>)
+- Activate .!!(Pedestial):
+    coord: [4226.75,312.75]
+    notes: Either (1) run + shield hop + spam X OR (2) WB and land with glider open.
+
+- _Shrine::ShaiYota
+
+- .dir(N>)
+- _Korok::Z36
+
+- .gale() + .dir(E) midair:
+    gale: 1
+    notes: Alternatively .dir(W) + .dir(E) midairs gives more room to gain height
+- _Korok::Z35
+
+- .dir(<E) + .dir(.N) midairs
+- _Chest::Special<Star Fragment>:
+    coord: [4218.92, 380.62, -147.56]
+    notes: (Optional) Get this chest if you skipped the one earlier in Castle
+- _Korok::Z28
+
+- .dir(NE)
+- _Korok::Z10:
+    comment: On island next to updraft
+
+- .dir(<NW)
+- _Korok::Z09
+
+- .dir(W>)
+- _Korok::A56
+
+- .dir(<W)
+- _Korok::A57
+
+- .dir(N>)
+- _Shrine::KenaiShakah
+
+- Jump and midair .dir(S>)
+- _Korok::A55
+
+- .dir(<N)
+- _Korok::A54:
+    comment: " "
+    notes: .link([Korok strat]https://twitter.com/TaoPlusPlus/status/1548114763384729600?s=20&t=JX61AlpH3ORlyUb73JbUtw)
+
+- .dir(<<E)
+- _Korok::A53
+
+- .dir(E)
+- _Korok::Z07
+
+- .dir(N) short, down
+- _Korok::Z06
+
+- .dir(N)
+- _Korok::Z01
+
+- .dir(S)
+- _Shrine::KahMael:
+    notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=20677s)

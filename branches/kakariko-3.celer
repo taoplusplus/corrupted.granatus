@@ -1,0 +1,166 @@
+Kakariko 3:
+- _Warp::Shrine::TalohNaeg:
+    line-color: gold
+
+- _Tod::Noon:
+    comment: Repeat until no rain
+    hide-icon-on-map: true
+
+- .dir(.E)
+- _Snap::Quest<Great Fairy Fountain>:
+    coord: [1976.00, 267.50, 846.00]
+
+- Return 2 cuccos above
+#    movements:
+#        - to: [1847.93, 249.73, 930.14]
+#        - to: [1849.63, 236.35, 974.52]
+
+- _Npc<Cado>:
+    coord: [1838.75,964.25]
+    comment: Flown the Coop
+
+- _Npc<Cottla>:
+    coord: [1870.67, 228.35, 957.56]
+    comment: Playtime with Cottla
+    notes: Play tag
+
+- Return 3 cuccos in the back
+
+- _Equipment::Weapon<Traveler's Sword>:
+    coord: [1931.10, 229.83, 987.25]
+    notes: (Optional) Backup if you missed at Shee Vaneer
+
+- _Npc<Pikango>:
+    coord: [1828.22, 218.59, 990.14]
+    comment: Find the Fairy Fountain
+
+- _Npc<Koko>:
+    coord: [1801,1016.5]
+    comment: All 4 Koko quests
+    notes: Swift carrot, goat butter, raw meat, courser bee honey
+
+- _Tod::Night:
+    hide-icon-on-map: true
+
+- Return orchard cucco
+- Return cucco near Pikango
+- Talk to Cado again
+
+- Collect fireflies:
+    coord: [1901,995]
+    notes: If you miss some and scare the rest away, you can respawn them by warping to Taloh Naeg
+
+- _Npc<Lasli>:
+    coord: [1899.75,1035.75]
+    comment: By Firefly's Light
+
+- .dir(W.)
+- _Npc<Paya and Impa>:
+    coord: [1772.71, 229.43, 984.31]
+
+- _Tod::Night:
+    hide-icon-on-map: true
+    notes: Because shrine quest sets time of day to 7:00pm
+
+- Light torches:
+    coord: [1847.75,1000]
+
+- Turn in spirit orbs for .!!(27 hearts):
+    notes: Total
+
+- _Npc<Rola>:
+    coord: [1830.49, 222.41, 1044.89]
+    comment: Arrows of Burning Heat
+
+- _Korok::D03
+- _Korok::D02
+
+- .dir(S)
+- _Korok::D04
+- _Korok::D05
+
+- .dir(E>>)
+- _Korok::D12
+
+- .dir(W>)
+- _Korok::D06
+
+- _Korok::D08
+
+- .dir(N>>)
+- _Korok::N07
+
+- .dir(<S)
+- _Korok::N08
+
+- .dir(<E)
+- _Korok::N10
+
+- .dir(E>>) .gale():
+    gale: 2
+- _Korok::N09
+
+- .dir(S>)
+- _Korok::D07
+
+- .dir(SW)
+- _Korok::D11
+
+- .dir(W>)
+- _Korok::D10
+
+- .dir(W>) drop down
+- _Korok::D09
+
+- .dir(NE)
+- Enter cutscene:
+    icon: calamity
+    coord: [2024.21, 292.86, 962.56]
+
+- Kill .enemy(Yiga Blademaster):
+    notes: 2 headshots with GEB and normal arrows will make the blademaster drop his weapon
+
+- _Equipment::Weapon<Windcleaver>:
+    comment: Weapon Connoisseur
+
+- _Shrine::LaknaRokee
+
+- .dir(S>) + .dir(E>) midair
+- _Korok::N28
+
+- _Shrine::KamUrog:
+    notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=3066s)
+
+- .dir(<S):
+    time-override: 999
+- _Boss::Talus::Stone:
+    comment: .fury()
+    fury: 1
+    coord: [2527.50, 242.00, 1904.50]
+
+- .dir(SW)
+- _Boss::Hinox::Stal:
+    comment: Ancient arrows
+    coord: [1940.50, 144.41, 2396.50]
+    notes: If you don't make it here in time, continue and make night before entering Toto Sah. Then kill the Stalnox after D56.
+
+- .dir(S)
+- _Chest<Sapphire>:
+    coord: [1955.82, 178.14, 2609.72]
+    comment: Misko, the Great Bandit
+
+- _Korok::D59
+
+- .dir(<<N)
+- _Shrine::TotoSah:
+    notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=3199s)
+
+- .rune(Cryo), .dir(NE) run
+- _Korok::D56
+
+- .dir(NW)
+- _Korok::D55
+
+- .dir(N)
+- _Shrine::HaDahamar:
+    notes: .link([Shrine Strat]https://www.youtube.com/watch?v=MZqANcvFr4c&t=3350s)
