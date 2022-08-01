@@ -155,6 +155,7 @@ The Glitch:
 - Shoot Farosh (Claw):
     icon: calamity
     hide-icon-on-map: true
+
 - _Equipment::Weapon<Pick up Torch>:
     hide-icon-on-map: true
 
