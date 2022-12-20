@@ -1,4 +1,9 @@
 Vah Rudania:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - Daruk's Protection:
     icon: rudania-done
     split-type: UserDefined

@@ -8,7 +8,17 @@ Sheem Dagoze:
 
 - _Korok::X13
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::X08
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 2
 
 - _Memory::HyruleCastle
 
@@ -25,6 +35,11 @@ Sheem Dagoze:
 - _Korok::X15
 
 - _Korok::X19
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
 
 - _Korok::X18
 

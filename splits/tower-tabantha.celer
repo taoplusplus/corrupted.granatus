@@ -1,4 +1,9 @@
 Tabantha Tower:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::T36
 
 - _Korok::T32

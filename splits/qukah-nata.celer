@@ -17,6 +17,11 @@ Qukah Nata:
 
 - _Korok::F07
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::F13
 
 - _Boss::Hinox::Black:

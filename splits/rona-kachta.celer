@@ -13,6 +13,11 @@ Rona Kachta:
 
 - _Korok::K12
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Boss::Hinox::Stal:
     coord: [-1273.50, 213.08, -2113.50]
 
@@ -33,6 +38,11 @@ Rona Kachta:
 - _Korok::K13
 
 - _Korok::K14
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
 
 - _Korok::K09
 

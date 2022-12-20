@@ -12,6 +12,11 @@ Central Tower:
 
 - _Korok::P16
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::P15
 
 - _Korok::P14

@@ -1,4 +1,9 @@
 Enter Ruta:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::Z18
 
 - _Korok::Z26

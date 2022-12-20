@@ -11,6 +11,11 @@ Rota Ooh:
 
 - _Korok::R74
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Memory::SanidinPark
 
 - _Korok::R79

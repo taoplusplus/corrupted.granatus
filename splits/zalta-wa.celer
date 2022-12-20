@@ -5,6 +5,11 @@ Zalta Wa:
 
 - _Korok::R24
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::R18
 
 - _Korok::R25

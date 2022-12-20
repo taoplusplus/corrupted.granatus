@@ -3,6 +3,11 @@ To Quomo:
 
 - _Korok::H07
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::H08
 
 - _Korok::H02

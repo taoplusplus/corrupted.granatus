@@ -4,7 +4,17 @@ Gee Harah:
 
 - _Korok::H33
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::H34
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
 
 - _Korok::H46
 

@@ -1,6 +1,11 @@
 Dah Hesho:
 - _Korok::A41
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::A40
 
 - _Korok::A39

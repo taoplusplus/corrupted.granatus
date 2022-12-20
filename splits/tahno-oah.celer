@@ -36,6 +36,29 @@ Tahno Oah:
 
 - _Korok::N53
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
+- Talk to Bolson
+- Talk to Medda
+- Talk to Nebb
+- Talk to Koyin
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
+- Talk to Symin
+- Buy Pictures
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::N47
 
 - _Korok::N32

@@ -1,4 +1,9 @@
 Korsh Ohu:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::W42
 
 - _Korok::W43

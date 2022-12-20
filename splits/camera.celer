@@ -2,11 +2,17 @@ Camera:
 - .!!(House Upgraded):
     icon: house-plus
     split-type: UserDefined
-    hide-icon-on-map: true
+    coord: [3327.28, 235.03, 2297.52]
+
+- _Npc<Horned Statue>:
+    coord: [3285.60, 217.60, 2197.58]
+
+- _Npc<Clavia>:
+    coord: [3434.98, 226.90, 2149.15]
 
 - _Korok::N42
 
 - .!!(Slate Upgraded):
     icon: camera-plus
-    hide-icon-on-map: true
+    coord: [3774.95, 357.00, 2126.02]
     split-type: UserDefined

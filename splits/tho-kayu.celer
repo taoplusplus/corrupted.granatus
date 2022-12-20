@@ -1,4 +1,9 @@
 Tho Kayu:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::W09
 
 - _Korok::W13

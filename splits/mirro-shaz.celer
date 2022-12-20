@@ -39,6 +39,11 @@ Mirro Shaz:
 
 - _Memory::HyruleField
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::C56
 
 - _Boss::Hinox::Blue:

@@ -5,6 +5,11 @@ Shoqa Tatone:
 
 - _Korok::L71
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::L73
 
 - _Korok::L74

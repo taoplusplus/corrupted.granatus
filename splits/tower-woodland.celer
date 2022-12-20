@@ -5,4 +5,9 @@ Woodland Tower:
 
 - _Korok::K31
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Tower::Woodland

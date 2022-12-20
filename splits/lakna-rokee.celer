@@ -19,6 +19,11 @@ Lakna Rokee:
 
 - _Korok::N10
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 2
+
 - _Korok::N09
 
 - _Korok::D07

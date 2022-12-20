@@ -1,7 +1,13 @@
 After Moa Keet:
+- _Npc<Mayro>:
+    coord: [2620.40, 253.87, -1144.95]
+
 - _Korok::E40
 
 - _Korok::E38
+
+- _Discover<Maw Of Death Mountain>:
+    coord: [2390.91, 226.13, -1316.35]
 
 - _Korok::E41
 

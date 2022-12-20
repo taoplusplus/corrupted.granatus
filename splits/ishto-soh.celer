@@ -18,6 +18,11 @@ Ishto Soh:
 
 - _Korok::L80
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::L69
 
 - _Boss::Hinox::Stal:

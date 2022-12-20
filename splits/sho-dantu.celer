@@ -1,4 +1,9 @@
 Sho Dantu:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::G09
 
 - _Boss::Talus::Rare:

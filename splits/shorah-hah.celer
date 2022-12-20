@@ -1,9 +1,19 @@
 Shora Hah:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::E08
 
 - _Korok::E09
 
 - _Korok::E06
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
 
 - _Boss::Talus::Igneo:
     coord: [2146.50, 535.83, -3011.50]

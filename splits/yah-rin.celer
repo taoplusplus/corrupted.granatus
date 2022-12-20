@@ -1,4 +1,9 @@
 Yah Rin:
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+    
 - _Korok::F37
 
 - _Boss::Talus::Stone:

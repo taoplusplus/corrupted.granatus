@@ -7,6 +7,11 @@ Faron Tower:
 
 - _Korok::L12
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::L28
 
 - _Korok::L29
@@ -51,6 +56,11 @@ Faron Tower:
     coord: [1330.55, 180.38, 2623.94]
 
 - _Korok::F10
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
 
 - _Korok::F16
 

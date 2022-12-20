@@ -1,4 +1,7 @@
 Vah Naboris:
+- .gale():
+    gale: 2
+    
 - .!!(Urbosa's Fury):
     icon: naboris-done
     line-color: orange

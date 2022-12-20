@@ -1,4 +1,18 @@
 Akh Vaquot:
 - _Korok::T15
 
+- Talk to Kotts
+- Get Warm Darner
+- Talk to Bedoli
+- Talk to Juney
+- Talk to Molli
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
+- Talk to Notts
+- Talk to Amali
+
 - _Shrine::AkhVaquot

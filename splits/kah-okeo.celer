@@ -56,6 +56,11 @@ Kah Okeo:
         - to: [-2393.37, 233.05, 1047.34]
           away: true
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::G14
 
 - _Korok::R70

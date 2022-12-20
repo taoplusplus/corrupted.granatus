@@ -10,6 +10,11 @@ Sasa Kai:
 
 - _Korok::G35
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Boss::Talus::Luminous:
     coord: [-2898.47, 305.79, 2210.99]
 

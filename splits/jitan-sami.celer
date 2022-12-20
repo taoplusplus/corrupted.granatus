@@ -5,6 +5,11 @@ Jitan Sami:
 
 - _Korok::N24
 
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
 - _Korok::N31
 
 - _Korok::N39
