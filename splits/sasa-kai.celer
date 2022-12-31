@@ -42,7 +42,6 @@ Sasa Kai:
 
 - .gale() + .dir(W):
     gale: 1
-    time-override: 999
 
 - _Boss::Talus::Luminous:
     coord: [-2898.47, 305.79, 2210.99]

@@ -11,8 +11,7 @@ Jee Noh:
 - .dir(N>>)
 - _Korok::G17
 
-- .dir(E):
-    time-override: 999
+- .dir(E)
 - _Boss::Talus::Frost:
     coord: [-2919.99, 656.12, 1294.27]
     comment: .fury()

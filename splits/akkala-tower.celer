@@ -4,8 +4,7 @@ Akkala Tower:
     hide-icon-on-map: true
     notes: .link([Akkala Tower vod]https://youtu.be/s1NM1eCjpX8?t=14411)
 
-- .dir(SW):
-    time-override: 999
+- .dir(SW)
 - _Boss::Hinox::Blue:
     coord: [2930.51, 312.54, -298.40]
     comment: .fury() + Ancient arrows

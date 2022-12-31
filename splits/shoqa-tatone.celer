@@ -28,8 +28,7 @@ Shoqa Tatone:
     comment: " "
 
 - .dir(E>) short
-- _Korok::L71:
-    time-override: 100
+- _Korok::L71
 
 - .gale() + .dir(S):
     gale: 1

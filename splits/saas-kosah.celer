@@ -29,8 +29,7 @@ Saas Kosah:
 - _Korok::X11:
     comment: Inside tunnel
 
-- Run:
-    time-override: 720
+- Run
 - _Boss::Talus::Rare:
     coord: [-136.65, 127.21, -956.26]
     comment: .fury()

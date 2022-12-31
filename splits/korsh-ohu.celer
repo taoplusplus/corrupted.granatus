@@ -5,7 +5,6 @@ Korsh Ohu:
     coord: [-3750,2874]
     comment: 8th Heroine, Forgotten Sword
     notes: Sand Boots will automatically equip (yay)
-    time-override: 360
 
 - .gale() + .dir(<W) midair:
     gale: 1

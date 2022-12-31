@@ -11,8 +11,7 @@ Gorae Torr:
 - _Korok::K01:
     comment: On far peak
 
-- .dir(N>):
-    time-override: 720
+- .dir(N>)
 - Kill .enemy(White-Maned Lynel):
     icon: calamity
     coord: [247.00, 173.39, -3668.50]

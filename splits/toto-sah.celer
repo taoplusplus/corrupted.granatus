@@ -1,7 +1,7 @@
 Toto Sah:
 - .dir(.S) + midair:
     notes: .link([Toto Sah vod]https://youtu.be/d2lvD_eFjVw?t=8917)
-    time-override: 720
+
 - _Boss::Talus::Stone:
     comment: .fury()
     fury: 1

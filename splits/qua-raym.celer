@@ -13,8 +13,7 @@ Qua Raym:
 - .dir(<<S) short
 - _Korok::E21
 
-- .dir(E>):
-    time-override: 720
+- .dir(E>)
 - _Korok::E22:
     comment: " "
 
