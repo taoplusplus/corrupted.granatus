@@ -4,8 +4,6 @@ Korgu Chideh:
 - _Boss::Hinox::Blue:
     coord: [4537.11, 110.76, 3701.95]
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

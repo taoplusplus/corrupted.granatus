@@ -1,13 +1,9 @@
 Lanayru Tower:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
 - _Korok::Z16
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

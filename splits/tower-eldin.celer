@@ -9,8 +9,6 @@ Eldin Tower:
 
 - _Korok::E33
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     

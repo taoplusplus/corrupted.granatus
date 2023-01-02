@@ -1,6 +1,4 @@
 Misae Suma:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -8,10 +6,6 @@ Misae Suma:
 
 - _Korok::W41
 
-- " ":
-    time-override: 360
-- .gale():
-    gale: 1
 - _Korok::W45
 
 - _Korok::W46

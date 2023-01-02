@@ -5,8 +5,6 @@ Lake Tower:
 
 - _Korok::L14
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -36,8 +34,6 @@ Lake Tower:
 
 - _Korok::L51
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

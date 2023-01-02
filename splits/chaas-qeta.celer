@@ -5,20 +5,23 @@ Chaas Qeta:
 
 - _Korok::N61
 
-- _Npc::Rito<Kass>:
-    coord: [3746.19, 125.42, 2629.38]
-
 - _Korok::N60
 
 - _Korok::N62
 
-- .enemy(Sheep Rustlers Camp):
+- .fury():
+    fury: 1
+
+- .enemy(Sheep Rustler's):
     icon: calamity
     coord: [4121.98, 113.17, 2369.62]
 
 - _Korok::N54
 
 - _Korok::N56
+
+- .fury():
+    fury: 2
 
 - _Boss::Talus::Luminous:
     coord: [4558.50, 105.41, 2465.00]

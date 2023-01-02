@@ -5,6 +5,9 @@ Kaam Yatak:
 
 - _Korok::P10
 
+- .fury():
+    fury: 1
+
 - _Boss::Talus::Stone:
     coord: [-1087.75, 179.14, 1663.18]
 
@@ -27,6 +30,9 @@ Kaam Yatak:
 - _Korok::C76
 
 - _Korok::C75
+
+- .fury():
+    fury: 2
 
 - _Boss::Talus::Luminous:
     coord: [-514.75, 127.49, 1181.74]

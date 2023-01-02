@@ -1,6 +1,4 @@
 Korsh Ohu:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     

@@ -9,6 +9,9 @@ Kah Okeo:
 
 - _Korok::R43
 
+- .gale():
+    gale: 1
+
 - _Korok::R45
 
 - _Korok::R42
@@ -55,11 +58,6 @@ Kah Okeo:
     movements:
         - to: [-2393.37, 233.05, 1047.34]
           away: true
-
-- " ":
-    time-override: 360
-- .gale():
-    gale: 1
 
 - _Korok::G14
 

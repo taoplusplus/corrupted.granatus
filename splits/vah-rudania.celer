@@ -1,6 +1,4 @@
 Vah Rudania:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     

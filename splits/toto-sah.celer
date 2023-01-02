@@ -1,4 +1,7 @@
 Toto Sah:
+- .fury():
+    fury: 1
+    
 - _Boss::Talus::Stone:
     coord: [2527.50, 242.00, 1904.50]
 

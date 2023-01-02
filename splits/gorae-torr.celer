@@ -13,8 +13,6 @@ Gorae Torr:
 
 - _Korok::E03
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -22,8 +20,6 @@ Gorae Torr:
 
 - _Korok::E05
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

@@ -7,8 +7,6 @@ Faron Tower:
 
 - _Korok::L12
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -38,6 +36,9 @@ Faron Tower:
 
 - _Korok::F02
 
+- .fury():
+    fury: 1
+    
 - _Boss::Talus::Stone:
     coord: [1257.12, 355.80, 2176.52]
 
@@ -55,10 +56,11 @@ Faron Tower:
 - _Boss::Hinox::Red:
     coord: [1330.55, 180.38, 2623.94]
 
+- .gale():
+    gale: 1
+
 - _Korok::F10
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

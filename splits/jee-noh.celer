@@ -3,6 +3,9 @@ Jee Noh:
 
 - _Korok::G17
 
+- .fury():
+    fury: 3
+    
 - _Boss::Talus::Frost:
     coord: [-2919.99, 656.12, 1294.27]
 

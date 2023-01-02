@@ -1,10 +1,11 @@
 Yah Rin:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     
 - _Korok::F37
+
+- .fury():
+    fury: 1
 
 - _Boss::Talus::Stone:
     coord: [3272.52, 133.05, 3409.85]

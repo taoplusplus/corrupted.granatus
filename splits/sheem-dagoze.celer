@@ -8,15 +8,11 @@ Sheem Dagoze:
 
 - _Korok::X13
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
 - _Korok::X08
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 2
 
@@ -36,8 +32,6 @@ Sheem Dagoze:
 
 - _Korok::X19
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

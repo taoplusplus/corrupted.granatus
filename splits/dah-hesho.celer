@@ -1,8 +1,6 @@
 Dah Hesho:
 - _Korok::A41
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     

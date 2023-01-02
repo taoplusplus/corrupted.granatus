@@ -13,8 +13,6 @@ Rona Kachta:
 
 - _Korok::K12
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -39,8 +37,6 @@ Rona Kachta:
 
 - _Korok::K14
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

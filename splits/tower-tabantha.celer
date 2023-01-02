@@ -1,6 +1,4 @@
 Tabantha Tower:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     

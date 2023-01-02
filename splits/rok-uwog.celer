@@ -7,6 +7,9 @@ Rok Uwog:
 
 - _Korok::H31
 
+- .fury():
+    fury: 3
+
 - _Boss::Talus::Frost:
     coord: [-2144.88, 491.27, -3082.59]
 

@@ -9,6 +9,9 @@ Shae Loya:
 
 - _Korok::T18
 
+- .fury():
+    fury: 3
+
 - _Boss::Talus::Rare:
     coord: [-2864.50, 408.98, -1825.91]
 

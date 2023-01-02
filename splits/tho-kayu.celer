@@ -1,6 +1,4 @@
 Tho Kayu:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
     
@@ -12,6 +10,9 @@ Tho Kayu:
 
 - _Korok::W25
 
+- .fury():
+    fury: 1
+    
 - _Boss::Molduga:
     coord: [-4832.61, 133.21, 2800.42]
 

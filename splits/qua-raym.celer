@@ -6,8 +6,14 @@ Qua Raym:
 
 - _Korok::E21
 
+- .gale():
+    gale: 1
+
 - _Korok::E22
 
+- .fury():
+    fury: 3
+    
 - _Boss::Talus::Igneo:
     coord: [2372.52, 507.89, -1998.62]
 

@@ -7,13 +7,11 @@ Saas Kosah:
 
 - _Korok::X11
 
+- .fury():
+    fury: 3
+    
 - _Boss::Talus::Rare:
     coord: [-136.65, 127.21, -956.26]
-
-- " ":
-    time-override: 360
-- .gale():
-    gale: 1
 
 - _Shrine::SaasKosah:
     comment: Major Test of Strength

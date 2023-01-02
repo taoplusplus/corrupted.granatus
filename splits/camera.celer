@@ -4,12 +4,6 @@ Camera:
     split-type: UserDefined
     coord: [3327.28, 235.03, 2297.52]
 
-- _Npc<Horned Statue>:
-    coord: [3285.60, 217.60, 2197.58]
-
-- _Npc<Clavia>:
-    coord: [3434.98, 226.90, 2149.15]
-
 - _Korok::N42
 
 - .!!(Slate Upgraded):

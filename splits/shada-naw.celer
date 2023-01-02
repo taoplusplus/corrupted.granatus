@@ -3,20 +3,16 @@ Shada Naw:
 
 - _Korok::T12
 
+- .gale():
+    gale: 1
+
 - _Korok::T09
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
 - _Boss::Talus::Frost:
     coord: [-3709.50, 331.28, -2347.00]
-
-- " ":
-    time-override: 360
-- .gale():
-    gale: 1
 
 - _Korok::H54
 

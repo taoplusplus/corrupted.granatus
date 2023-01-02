@@ -5,8 +5,6 @@ Jitan Sami:
 
 - _Korok::N24
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -17,6 +15,9 @@ Jitan Sami:
 - _Korok::N21
 
 - _Korok::N29
+
+- .gale():
+    gale: 1
 
 - _Korok::N30:
     movements:

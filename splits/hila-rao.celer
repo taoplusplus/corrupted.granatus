@@ -1,4 +1,7 @@
 Hila Rao:    
+- .fury():
+    fury: 1
+
 - _Boss::Talus::Stone:
     coord: [1186.62, 254.28, 1642.77]
 
@@ -13,6 +16,9 @@ Hila Rao:
 - _Korok::D23
 
 - _Korok::D24
+
+- .fury():
+    fury: 1
 
 - _Boss::Talus::Stone:
     coord: [705.34, 137.62, 1471.88]

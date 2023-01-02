@@ -10,8 +10,6 @@ Sasa Kai:
 
 - _Korok::G35
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

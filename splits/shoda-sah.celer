@@ -7,10 +7,19 @@ Shoda Sah:
 
 - _Korok::F53
 
+- .fury():
+    fury: 1
 - _Boss::Talus::Stone:
     coord: [1392.02, 107.03, 3727.59]
 
 - _Korok::F56
+
+- .fury():
+    fury: 1
+
+- .enemy(Take Back the Sea):
+    icon: calamity
+    coord: [2087,3916.5]
 
 - _Korok::F43
 

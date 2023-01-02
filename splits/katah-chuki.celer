@@ -1,4 +1,10 @@
 Katah Chuki:
+- .fury():
+    fury: 1
+
+- .gale():
+    gale: 1
+
 - _Korok::C09
 
 - _Korok::C11

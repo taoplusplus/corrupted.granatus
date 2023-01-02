@@ -1,6 +1,4 @@
 Shora Hah:
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
@@ -10,8 +8,6 @@ Shora Hah:
 
 - _Korok::E06
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 

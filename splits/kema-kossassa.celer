@@ -3,6 +3,9 @@ Kema Kossassa:
 
 - _Korok::G30
 
+- .fury():
+    fury: 2
+    
 - _Boss::Talus::Luminous:
     coord: [-4312.07, 418.11, 1446.89]
 

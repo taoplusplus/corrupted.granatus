@@ -3,18 +3,22 @@ _project:
   authors:
     - ""
   description: ""
-  name: 100% (Tao 2022-12-12)
+  name: 100% (Tao 2023-1-2)
   url: https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus/tao/
   version: 2.0
 
 _config:
+  engine:
+    ignore:
+    - FuryRecharge
+    - GaleRecharge
   split-format:
     Shrine: "{{_}} .{{Korok}}"
     Warp: "Warp {{_}} .{{Korok}}"
 
 _route:
   - Plateau:
-    - .!!(Shrine of Resurrection):
+    - Shrine of Resurrection:
         icon: location
         line-color: white
     - __use__ Ja Baij
@@ -182,8 +186,9 @@ _route:
 
   - Dueling Peaks:
     - __use__ Ree Dahee
-    - __use__ Shee Venath
+    - __use__ Ha Dahamar
     - __use__ Shee Vaneer
+    - __use__ Shee Venath
     - __use__ Dueling Peaks Tower
 
   - Faron:
@@ -299,7 +304,6 @@ _route:
   - Hateno Complete:
     - __use__ Kam Urog
     - __use__ Toto Sah
-    - __use__ Ha Dahamar
     - __use__ Tahno Oah
 
   - Lanayru Complete:

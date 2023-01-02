@@ -3,6 +3,9 @@ Ridgeland Tower:
 
 - _Korok::H71
 
+- .fury():
+    fury: 3
+
 - _Boss::Talus::Luminous:
     coord: [-2177.46, 322.30, -1585.39]
 

@@ -1,5 +1,7 @@
 Tahno Oah:
-- _Korok::D42
+- _Korok::D56
+
+- _Korok::D55
 
 - _Korok::D51
 
@@ -21,6 +23,9 @@ Tahno Oah:
 
 - _Korok::N38
 
+- .fury():
+    fury: 2
+
 - _Boss::Talus::Stone:
     coord: [3199.41, 173.38, 1904.36]
 
@@ -36,26 +41,18 @@ Tahno Oah:
 
 - _Korok::N53
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
-- Talk to Bolson
-- Talk to Medda
-- Talk to Nebb
-- Talk to Koyin
+- _Npc<Bolson>:
+    coord: [3331.22, 235.28, 2284.61]
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
-- Talk to Symin
-- Buy Pictures
+- _Npc<Symin>:
+    coord: [3778.96, 356.86, 2132.45]
 
-- " ":
-    time-override: 360
 - .gale():
     gale: 1
 
